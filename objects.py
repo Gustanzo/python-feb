@@ -36,7 +36,7 @@ rectangle1.perimeter()
 rectangle1.area()
 rectangle1.display()
 
-my_employee1 = My_Employee("Ghost", "Male", 150000, 21)
+my_employee1 = My_Employee("Ghost", "Male", 150000, 22)
 my_employee2 = My_Employee("Charly", "Female", 100000, 24)
 print(my_employee1.basic_salary)
 print(my_employee2.gender)
